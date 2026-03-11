@@ -8,8 +8,9 @@
 В нижнем меню выбираем Создание НОВОЙ ВЕТКИ, дабы было удобнее смотреть/откатываться назад, и propose changes
 <img width="846" height="629" alt="image" src="https://github.com/user-attachments/assets/c1024c79-45dc-4117-a684-1e9924925a90" />
 Через стрелку выбираем Create pull request
-5. <img width="1293" height="875" alt="image" src="https://github.com/user-attachments/assets/abfe3efa-bb17-416f-8778-710410bca2dd" />
-Жмём Merge pull request и дальше commit merge
+ <img width="1293" height="875" alt="image" src="https://github.com/user-attachments/assets/abfe3efa-bb17-416f-8778-710410bca2dd" />
+5.Жмём Merge pull request и дальше commit merge
+
 6. Если вам нужно просто взглянуть на недавно добавленные АО, жмём Pull requests, и на плашку closed 
 <img width="2174" height="843" alt="image" src="https://github.com/user-attachments/assets/cf448cb4-19c2-4ef5-8e1a-066073e38e98" />
 
